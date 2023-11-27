@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+#map {
+  height: 100vh;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: #000;
+  color: #FFF;
+}
+
+img {
+  width: 100%;
+}
